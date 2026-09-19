@@ -25,6 +25,13 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Frameworks](#frameworks)
 * [Tips & Tricks](#tips-and-tricks)
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/awesome-mcp-servers/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## What is MCP?
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
