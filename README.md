@@ -29,7 +29,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## Development Visualization
 
-<video src="https://github.com/itsdarklikehell/awesome-mcp-servers/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/itsdarklikehell/awesome-mcp-servers/main/gource.mp4" controls width="100%"></video>
 
 *Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## What is MCP?
