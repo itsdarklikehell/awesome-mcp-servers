@@ -1,3 +1,10 @@
+[![CI](https://github.com/itsdarklikehell/awesome-mcp-servers/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-mcp-servers/actions/workflows/ci.yml)
+[![Gource](https://github.com/itsdarklikehell/awesome-mcp-servers/actions/workflows/gource.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-mcp-servers/actions/workflows/gource.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/itsdarklikehell/awesome-mcp-servers)](https://github.com/itsdarklikehell/awesome-mcp-servers/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/itsdarklikehell/awesome-mcp-servers)](https://github.com/itsdarklikehell/awesome-mcp-servers/pulls)
+
+
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
